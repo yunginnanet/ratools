@@ -19,7 +19,7 @@ The basic idea is to have two programs. On the one hand a
 powerful CLI, called ratools/ractl, for manipulating the
 configuration. And on the other hand an efficient, non-bloated
 stable daemon process, called ratools/rad. As depicted below,
-both programs communicate with each other via an UNIX socket.
+both programs communicate with each other via a UNIX socket.
 
 
                               +------------------+
